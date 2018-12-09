@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Customer Service Response Gifs</title>
+    <title>Holiday Emotions Giphy</title>
     <style type="text/css">
         button,
         div,
@@ -34,6 +34,8 @@
     <!-- will giphy Get Dumped Here -->
     <div id="response-view"></div>
 
+    
+
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script type="text/javascript">
@@ -45,7 +47,7 @@ function displayMovieInfo() {
    var key = "avGnmMezRaOD0juzBlwH8TocnDr0qWoO";
   var movie = $(this).attr("data-name");
   console.log("movie is: " + movie);
-  var queryURL = "https://api.giphy.com/v1/gifs/search?&api_key=" + key + "&q=" + movie + "&limit=25&offset=0&rating=G&lang=en";
+  var queryURL = "https://api.giphy.com/v1/gifs/search?&api_key=" + key + "&q=" + movie + "&limit=10&offset=0&rating=G&lang=en";
 
   // Creating an AJAX call for the specific movie button being clicked
   $.ajax({
