@@ -9,4 +9,4 @@ To operate this application click on the Emotions/Buttons at the top of the page
 This application was created and is maintain by Keith Collins with the support of GW Boot Camp Code staff.
 Happy Holidays take some time to have a little Fun!
 
-GO here to start: https://github.com/keefske2000/java.git or 
+GO here to start: https://github.com/keefske2000/java.git or https://keefske2000.github.io/java/
