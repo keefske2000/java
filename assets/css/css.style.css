@@ -1,0 +1,17 @@
+body{
+
+        background-image: url("../images/snowflakes.jpg")
+        
+        
+        
+}
+
+#customerResponse{
+
+    font-size: 30px;
+    color: greenyellow;
+    background: black;
+    width: 35%;
+    float: right;
+
+}
