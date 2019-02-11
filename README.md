@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # java Holiday Emotions
 
 * The holiday emotions can get to all of us if we let it. Take time to express your emotions and see what Giphy you can relate too or use to change your mood or uplift your Spirits.
